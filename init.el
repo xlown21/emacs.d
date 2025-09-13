@@ -111,6 +111,7 @@
   :config
   (global-git-gutter-mode +1))
 
+
 ;; auto config treesiter
 (use-package treesit-auto
   :ensure t
