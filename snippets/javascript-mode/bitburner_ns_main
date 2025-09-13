@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: bitburner ns main
+# key: nsmain
+# --
+/** @param {NS} ns **/
+export async function main(ns) {
+  $0
+}
